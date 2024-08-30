@@ -45,15 +45,15 @@
   },
   "devDependencies": {
     "@sveltejs/package": "^2.3.2",
-    "@sveltejs/vite-plugin-svelte": "^4.0.0-next.5",
+    "@sveltejs/vite-plugin-svelte": "^4.0.0-next.6",
     "@tanstack/svelte-query": "workspace:*",
     "@testing-library/svelte": "^5.2.1",
     "eslint-plugin-svelte": "^2.43.0",
-    "svelte": "^5.0.0-next.204",
+    "svelte": "^5.0.0-next.241",
     "svelte-check": "^3.8.4"
   },
   "peerDependencies": {
     "@tanstack/svelte-query": "workspace:^",
-    "svelte": "^5.0.0-next.204"
+    "svelte": "^5.0.0-next.241"
   }
 }
